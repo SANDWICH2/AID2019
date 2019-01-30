@@ -1,4 +1,9 @@
 /home/tarena/class_gb/3_pythonNet/2019.1.17/fork_server.py
 
 
+<<<<<<< HEAD
 two
+=======
+gaobin加的
+>>>>>>> gaobin
+
